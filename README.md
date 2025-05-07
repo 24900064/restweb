@@ -28,8 +28,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-index.html
 ```
+index.html
 <html>
 <head>=
     <title>HOTSPOT</title>
@@ -153,9 +153,9 @@ index.html
 </body>
 </html>
 
-```
+
 menu.html
-```
+
 <html>
 <head>
     <style>
@@ -275,9 +275,9 @@ menu.html
 </html>
 
 
-```
+
 booktable.html
-```
+
 <html>
 <head>
     <title>Book a Table - HOTSPOT</title>
@@ -376,9 +376,9 @@ booktable.html
 </body>
 </html>
 
-```
+
 administartion.html
-```
+
 <html>
 <head>
     <title>Administration - HOTSPOT</title>
@@ -503,9 +503,9 @@ administartion.html
 
 </body>
 </html>
-```
+
 contact.html
-```
+
 <html>
 <head>
     <title>Contact Us - HOTSPOT</title>
