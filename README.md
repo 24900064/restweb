@@ -1,34 +1,45 @@
 # Ex.07 Restaurant Website
-## Date: 07.05.2025
 
-## AIM:
+**Date:** 07.05.25
+
+**AIM:**
+
 To develop a static Restaurant website to display the food items and services provided by them.
 
-## DESIGN STEPS:
+**DESIGN STEPS:**
 
-### Step 1:
+## Step 1
+
 Requirement collection.
 
-### Step 2:
+## Step 2
+
 Creating the layout using HTML and CSS.
 
-### Step 3:
+## Step 3
+
 Updating the sample content.
 
-### Step 4:
+## Step 4
+
 Choose the appropriate style and color scheme.
 
-### Step 5:
+## Step 5
+
 Validate the layout in various browsers.
 
-### Step 6:
+## Step 6
+
 Validate the HTML code.
 
-### Step 7:
+## Step 7
+
 Publish the website in the given URL.
 
-## PROGRAM:
-```
+**PROGRAM**:
+
+```python
+
 index.html
 <html>
 <head>=
@@ -106,7 +117,7 @@ index.html
 <body>
 
 <header>
-    <img src="HOTSPOT.jpeg" alt="HOTSPOT Logo"> 
+    <img src="HOTSPOT.jpeg" alt="HOTSPOT Logo">
     <h1>HOTSPOT</h1>
 </header>
 
@@ -124,19 +135,19 @@ index.html
 
 <div class="sections">
     <div class="section">
-        <img src="menu.jpeg" alt="Menu"> 
+        <img src="menu.jpeg" alt="Menu">
         <h3>Our New Menu</h3>
         <p>Explore a variety of mouthwatering dishes crafted to satisfy every taste. From savory appetizers to hearty main courses, there's something for everyone.</p>
         <a href="menu.html">See our new menu</a>
     </div>
     <div class="section">
-        <img src="table.jpeg" alt="Book a Table"> 
+        <img src="table.jpeg" alt="Book a Table">
         <h3>Reserve Your Spot</h3>
         <p>Enjoy an unforgettable dining experience at HOTSPOT. Book your table today and treat yourself to a fantastic meal in a cozy ambiance.</p>
         <a href="booktable.html">Book your table now</a>
     </div>
     <div class="section">
-        <img src="waiter.jpeg" alt="Opening Hours"> 
+        <img src="waiter.jpeg" alt="Opening Hours">
         <h3>Opening Hours</h3>
         <p>
             Mon - Fri: 2pm - 10pm<br>
@@ -593,16 +604,16 @@ contact.html
 
 </body>
 </html>
-
 ```
 
-## OUTPUT:
+**Output:**
 
-![alt text](<Screenshot (27).png>)
-![alt text](<Screenshot (28).png>)
-![alt text](<Screenshot (29).png>)
-![alt text](<Screenshot (30).png>)
-![alt text](<Screenshot (31).png>)
+![alt text](<Screenshot (30)-1.png>)
+![alt text](<Screenshot (31)-1.png>)
+![alt text](<Screenshot (27)-1.png>)
+![alt text](<Screenshot (28)-1.png>)
+![alt text](<Screenshot (29)-1.png>)
 
-## RESULT:
+**RESULT:**
+
 The program for designing software company website using HTML and CSS is completed successfully.
